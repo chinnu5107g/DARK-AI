@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DARK AI</string>
+    <string name="notification_channel_name">DARK Voice Assistant</string>
+    <string name="notification_channel_desc">Active wake-word listener for hands-free and screen-off operation</string>
+    <string name="notification_title">DARK AI Assistant Active</string>
+    <string name="notification_text">Listening for "Hey Dark" (Tap to open)</string>
+    <string name="action_stop">Stop Assistant</string>
+</resources>
